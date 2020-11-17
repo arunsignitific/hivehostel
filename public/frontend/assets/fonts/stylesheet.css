@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Supernett cn Cond';
+    src: url('Supernettcn-BoldCondensed.woff2') format('woff2'),
+        url('Supernettcn-BoldCondensed.woff') format('woff'),
+        url('Supernettcn-BoldCondensed.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supernett cn Cond';
+    src: url('Supernettcn-BoldCondItalic.woff2') format('woff2'),
+        url('Supernettcn-BoldCondItalic.woff') format('woff'),
+        url('Supernettcn-BoldCondItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Light.woff2') format('woff2'),
+        url('Gilroy-Light.woff') format('woff'),
+        url('Gilroy-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supernett cn Light Cond';
+    src: url('Supernettcn-LightCondensed.woff2') format('woff2'),
+        url('Supernettcn-LightCondensed.woff') format('woff'),
+        url('Supernettcn-LightCondensed.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-ExtraBold.woff2') format('woff2'),
+        url('Gilroy-ExtraBold.woff') format('woff'),
+        url('Gilroy-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supernett cn Cond';
+    src: url('Supernettcn-Condensed.woff2') format('woff2'),
+        url('Supernettcn-Condensed.woff') format('woff'),
+        url('Supernettcn-Condensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supernett cn Cond';
+    src: url('Supernettcn-CondensedItalic.woff2') format('woff2'),
+        url('Supernettcn-CondensedItalic.woff') format('woff'),
+        url('Supernettcn-CondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Supernett cn Light Cond';
+    src: url('Supernettcn-LightCondItalic.woff2') format('woff2'),
+        url('Supernettcn-LightCondItalic.woff') format('woff'),
+        url('Supernettcn-LightCondItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
